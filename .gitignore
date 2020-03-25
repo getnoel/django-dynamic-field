@@ -1,0 +1,10 @@
+*.egg-info
+*.sw?
+*.un~
+.DS_Store
+.idea
+Thumbs.db
+__pycache__
+build/
+dist/
+sqlite3.db
